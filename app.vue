@@ -30,12 +30,3 @@ onMounted(() => {
     console.log(content);
   }
 </script>
-
-<style>
-  .btn-default {
-    background: linear-gradient(134deg, #2400FF 0%, #EB6F0E 100%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-</style>
